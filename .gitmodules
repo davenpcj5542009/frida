@@ -1,6 +1,6 @@
 [submodule "capstone"]
 	path = capstone
-	url = https://github.com/davenpcj5542009/capstone.git
+	url = https://github.com/aquynh/capstone.git
 [submodule "frida-gum"]
 	path = frida-gum
 	url = https://github.com/davenpcj5542009/frida-gum.git
@@ -24,7 +24,7 @@
 	url = https://github.com/davenpcj5542009/frida-qml.git
 [submodule "releng/meson"]
 	path = releng/meson
-	url = https://github.com/davenpcj5542009/meson.git
+	url = https://github.com/mesonbuild/meson.git
 [submodule "frida-tools"]
 	path = frida-tools
 	url = https://github.com/davenpcj5542009/frida-tools.git
